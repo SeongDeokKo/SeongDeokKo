@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeongDeokKo
-- 👀 I’m interested in Empirical Asset Pricing / Cross-Market Analysis / Lottery Preference / CryptoCurrency 
+- 👀 I’m interested in Empirical Asset Pricing / Cross-Market Analysis / Term Structure Model / CryptoCurrency 
 - 🌱 I’m currently learning Finance at Seoul National University 
 - 💞️ I’m looking to collaborate on empirical asset pricing 
 - 📫 How to reach me ksdskd@snu.ac.kr
